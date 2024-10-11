@@ -1,1 +1,3 @@
 # MAMGBR
+
+`python run.py`
